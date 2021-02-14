@@ -7,3 +7,6 @@ dependencies:
   - scikit-learn
   - statsmodels
   - seaborn
+  - jupyterlab
+  - spyder
+  - pandas-profiling
