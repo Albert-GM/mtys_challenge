@@ -1,0 +1,9 @@
+name: metyis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - scikit-learn
+  - statsmodels
+  - seaborn
